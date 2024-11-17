@@ -73,7 +73,7 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # Username
-  cv               : #
+  cv               : "https://abm.github.io/files/Michael AB_CV.pdf"
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
