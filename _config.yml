@@ -23,12 +23,12 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Michael Adu-Brew"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he/him"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "University of Maryland"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "madubrew@umd.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -50,7 +50,7 @@ author:
 
   # Social media
   bluesky          : "bsky.app" # Replace this with you Bluesky username
-  facebook         : # Username
+  facebook         : "Michael Adu-Brew"
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "Micahael Adu-Brew"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
