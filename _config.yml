@@ -5,9 +5,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve -l -H localhost`. If you change this file, please restart the 
 # server process.
-theme: "jekyll-theme-so-simple"
-# remote_theme: mmistakes/so-simple-theme
-skin: "/assets/css/skins/default.css"
+theme: jekyll-theme-minimal-mistake
 
 # Basic Site Settings
 locale                   : "en-US"
