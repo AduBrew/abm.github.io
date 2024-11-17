@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Michael Adu-Brew"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Michael Adu-Brew"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,8 +24,8 @@ author:
   avatar           : "profile.png"
   name             : "Michael Adu-Brew"
   pronouns         : "he/him"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "Research Assistant in Insecticide Toxicology"
+  location         : "Maryland, U.S.A"
   employer         : "University of Maryland"
   uri              : # URL
   email            : "madubrew@umd.edu" 
@@ -73,7 +73,7 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # Username
-
+  cv               : #
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
