@@ -12,7 +12,7 @@ title                    : "Michael Adu-Brew"
 title_separator          : "-"
 name                     : &name "Michael Adu-Brew"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : #https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -74,6 +74,7 @@ author:
   youtube          : # Username
   zhihu            : # Username
   cv               : "https://abm.github.io/files/Michael AB_CV.pdf"
+  
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
