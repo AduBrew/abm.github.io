@@ -12,7 +12,7 @@ title                    : "Michael Adu-Brew"
 title_separator          : "-"
 name                     : &name "Michael Adu-Brew"
 description              : &description "personal description"
-url                      : https://abm.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "AduBrew/abm.github.io"
 
